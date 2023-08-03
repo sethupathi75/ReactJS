@@ -1,0 +1,15 @@
+.bord{
+    border: 2px solid hsl(258, 56%, 4%);
+  }
+  .bord1{
+    border: 2px solid skyblue;
+  }
+  .round{
+      border-radius: 70px;
+  }
+  .font{
+    font-family: 'Wendy One', sans-serif;
+  }
+  .box-font{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
